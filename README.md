@@ -2,9 +2,11 @@
 
 Hey everyone, Software Mansion here! 👋
 
-Currently, State of React Native 2023 Preview is live at [stateofreactnative.com](https://preview.stateofreactnative.com/).
+The survey lives at [stateofreactnative.com](https://stateofreactnative.com/).
 
-You can contribute to the survey via [State of React Native 2023 Preview / Call for Questions Discussion](https://github.com/software-mansion/state-of-react-native/discussions/6).
+Currently, we're disussing the 2024 edition. 2024 preview is live at [survey.stateofreactnative.com](https://survey.stateofreactnative.com/).
+
+You can contribute to the survey via [State of React Native 2024 Preview / Call for Questions Discussion](https://github.com/software-mansion/state-of-react-native/discussions/9).
 
 You can subscribe to [our newsletter](https://stateofreactnative.com/) to stay up to date.
 
